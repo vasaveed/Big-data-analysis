@@ -14,3 +14,5 @@ Result:
 -identified average total fare by payment type.credit card was the most used with the highest average 
 -generated statistical summaries showing most trips are short and affordable
 -determined peak flight distace was 5.5 miles and average air time -45 minutes
+output:
+![Image](https://github.com/user-attachments/assets/1d7f0bb8-3a5f-4356-9d7c-b02450785b56)
